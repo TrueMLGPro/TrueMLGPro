@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm TrueMLGPro! 👋</h1>
 
-<p>✨ I like bringing people software and utilities they'd use to make their life easier</p>
+<p align="center">✨ I like bringing people software and utilities they'd use to make their life easier</p>
 
 <p align="center">
   <img src="https://hits.link/hits?url=https://github.com/TrueMLGPro&bgLeft=222222&bgRight=5057D8&label=Visits" />
@@ -93,6 +93,8 @@
 <a href="https://github.com/TrueMLGPro#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=TrueMLGPro&theme=github_dark&show_icons=true#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
+
+<br/>
 
 <!-- Top Languages -->
 
