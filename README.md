@@ -3,7 +3,7 @@
 <p align="center">✨ I like bringing people software and utilities they'd use to make their life easier</p>
 
 <p align="center">
-  <img src="https://hits.link/hits?url=https://github.com/TrueMLGPro&bgLeft=222222&bgRight=5057D8&label=Visits" />
+  <img src="https://hits-app.vercel.app/hits?url=https://github.com/TrueMLGPro&bgLeft=222222&bgRight=5057D8&label=Visits" />
 </p>
 
 <h1>💻 Tools and Technologies I use</h1>
