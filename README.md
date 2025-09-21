@@ -43,14 +43,6 @@
   </a>
 </p>
 
-<h1>🔮 My Specs</h1>
-
-<p>
-  <img src="https://img.shields.io/badge/AMD-Ryzen_5_3550H-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="CPU">
-  <img src="https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="GPU">
-  <img src="https://img.shields.io/badge/RAM-16_GB-00B4D8?style=for-the-badge" alt="RAM">
-</p>
-
 <h1>🚀 Operating Systems I use</h1>
 
 <p>
