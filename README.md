@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm TrueMLGPro! 👋</h1>
+<h1 align="center">Hi, I'm TMP! 👋</h1>
 
 <p align="center">✨ I like bringing people software and utilities to make life easier</p>
 
